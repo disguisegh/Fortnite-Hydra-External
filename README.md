@@ -1,2 +1,2 @@
 # Fortnite-Hydra-External
-Detected and outdated. Features shoot through walls exploit, and a clean aimbot/esp. Uses the outdated discord HWND hijack method.
+The software has been detected and is significantly outdated. It includes a shoot-through-walls exploit that allows users to target opponents through solid surfaces, as well as a clean and relatively subtle aimbot and ESP system. However, its underlying implementation is outdated, particularly its reliance on the old Discord HWND hijacking method, which is no longer considered a modern or reliable approach. Overall, while it offers several features, the detection status and outdated techniques make it considerably less viable. Made by Disguise as an old/beginner project.
